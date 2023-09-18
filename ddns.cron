@@ -1,0 +1,4 @@
+# Run Dynamic DNS script every reboot
+SHELL=/bin/bash
+PATH=/sbin:/bin:/usr/sbin:/usr/bin
+@reboot root sleep 120 && /usr/local/sbin/ddns.sh
