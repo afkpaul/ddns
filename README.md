@@ -1,5 +1,5 @@
 # ddns
-Dynamic DNS various scripts and hosting providers
+Dynamic DNS script used with GoDaddy hosting provider
 
 INSTALL:
 
